@@ -1,12 +1,11 @@
 {
-  "name": "dreamhouse-web-app",
-  "description": "DreamHouse Web App",
-  "keywords": [
-    "app-cloud"
-  ],
-  "repository": "https://github.com/shwethachandrasekar2001@gmail.com/intro-to-heroku",
-  "addons": [
-    "heroku-postgresql"
-  ]
-}
- 
+ 	"name": "dreamhouse-web-app",
+ 	"description": "DreamHouse Web App",
+ 	"keywords": [
+ 	"app-cloud"
+ 	],
+ 	"repository": "https://github.com/shwethachandrasekar2001@gmail.com/intro-to-heroku",
+ 	"addons": [
+ 	"heroku-postgresql"
+ 	]
+ 	}
